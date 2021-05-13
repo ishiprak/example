@@ -1,1 +1,2 @@
-Tghis is story 3.
+This is story 3.
+It is now rectified!
